@@ -64,7 +64,7 @@ Product Manager(기획자)
   ><a href="https://github.com/gaon060101" target="_blank"><img src="https://img.shields.io/badge/Back Gaon-6e18a8?style=for-the-badge"/>  
   >><img src="https://img.shields.io/badge/Developer-79d11b?style=flat"> 
   
-  ><a href="https://github.com/hanys111406" target="_blank"><img src="https://img.shields.io/badge/Han Yeonsu-c44141?style=for-the-badge"/>
+  ><a href="https://github.com/hanys111406" target="_blank"><img src="https://img.shields.io/badge/Han Yeonsoo-c44141?style=for-the-badge"/>
   >><img src="https://img.shields.io/badge/Developer-79d11b?style=flat">
   
   <em><b> Description:</em></b>  
