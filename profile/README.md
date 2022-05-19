@@ -137,7 +137,7 @@ Product Manager(기획자)
 >MRMR Development Team  <br>
 >Eco-MRMR  <br>
   <br>
-  <h3>Back 가온</h3>
+  <h3>Baek 가온</h3>
   -  
   -  
   -  
@@ -148,7 +148,7 @@ Product Manager(기획자)
 >Green-MRMR  <br>
 >Eco-MRMR  <br>
   <br>
-  <h3>Han Yeon Soo</h3>
+  <h3>Han 연수</h3>
   -  
   -  
   -  
